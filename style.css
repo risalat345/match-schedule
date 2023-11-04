@@ -1,0 +1,72 @@
+.sch{
+    height: 600px;
+    width: 1080px;
+    background-image: url(Flag/230630_efootball-720x405.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.qwqw{
+    color: yellow;
+    background-color: black;
+    text-align: center;
+    font-size: 30px;
+    padding:5px;
+    margin-bottom: 0%;
+}
+.vvvv{
+    color: rgb(255, 255, 255);
+    background-color: deeppink;
+    text-align: center;
+    font-size: 30px;
+    margin-bottom: 0%;
+    margin-top: 0%;
+    padding-right: 20%;
+}
+.roundone{
+    width: 1080px;
+    height: 400px;
+    background-color: darkblue;
+}
+table{
+    border-collapse: collapse;
+    height: 400px;
+    width: 80%;
+    text-align: center;
+    margin-right: 10%;
+    
+}
+tr{
+    padding: 0px 10px;
+    margin: 0px;
+    border-bottom: 0.5px solid rgb(6, 6, 6);
+    color: aliceblue;
+   }
+   td img{
+    padding: 0PX 10PX;
+    height: 25px;
+    width: 23px;
+    margin-left: 10%;
+    
+   }
+   td{
+    color: yellow;
+    font-size: 20px;
+    text-align: RIGHT;
+    border-bottom: 1px solid yellow;
+   }
+   .opo{
+    text-align: left;
+   }
+   th{
+    color: darkblue;
+   }
+   .opo img{
+    margin-right: 10%;
+   }
+   .backb{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    background-color: deeppink;
+    padding: 10px;
+border-radius: 10px 0px;
+}
