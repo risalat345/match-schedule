@@ -71,6 +71,6 @@ tr{
 border-radius: 10px 0px;
 }
 .backb:hover{
-    color: aliceblue;
+    color: rgb(0, 0, 0);
     background-color: yellow;
 }
